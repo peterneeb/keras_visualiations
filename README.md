@@ -13,8 +13,8 @@ vis_conv.display_convolutions_per_image(...)
 vis_conv.display_convolutions_per_filter(...)
 
 The code is in the vis_conv package and produces images like:
-### display_convolutions_per_image(...)
-![inceptionv3_kernels_conv2d_275](https://user-images.githubusercontent.com/38925757/40920076-c909cfdc-680b-11e8-87dc-b04bb0b3791c.png)
 ### display_convolutions_per_filter(...)
+![inceptionv3_kernels_conv2d_275](https://user-images.githubusercontent.com/38925757/40920076-c909cfdc-680b-11e8-87dc-b04bb0b3791c.png)
+### display_convolutions_per_image(...)
 ![mnist_relu_kernels](https://user-images.githubusercontent.com/38925757/40920063-c35ec92a-680b-11e8-92bd-4fc7a3611236.png)
 
